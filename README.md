@@ -1,5 +1,4 @@
-# OIBSIP_task_3
-TASK-3 : ATM INTERFACE
+# ATM INTERFACE
 I have completed Task-3 (ATM Interface) in Java Programming.
 I have tried to make this ATM interface a little bit different by adding GUI and AWT to the Program.
 
